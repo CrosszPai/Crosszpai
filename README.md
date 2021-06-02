@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on anything that I can rest for 8 hours.
 - 🤔 I’m looking for help with COVID-19
 - 💬 Ask me about ...
-- 📫 How to reach me: Use ur tongue joke / narawittriprom@gmail.com
+- 📫 How to reach me: Use ur tongue ... joke / narawittriprom@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to play DOTA2 and I'm bitter latte lover.
 
 ![CrosszPai's github stats](https://github-readme-stats.vercel.app/api?username=CrosszPai&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrosszPai&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrosszPai&layout=compact)
